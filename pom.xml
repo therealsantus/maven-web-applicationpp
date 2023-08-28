@@ -6,7 +6,7 @@
 	<artifactId>maven-web-application</artifactId>
 	<packaging>war</packaging>
 	
-	<version>0.0.4-SNAPSHOT</version> 
+	<version>0.0.5-SNAPSHOT</version> 
 	
 	<name>maven-web-application</name>
 
@@ -101,7 +101,7 @@
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://54.204.64.164:8191/landmark/repository/tesla-snapshot/</url>
+	      <url>http://172.31.94.205:8191/landmark/repository/tesla-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
